@@ -114,6 +114,8 @@ Initial investment $10,000, annual contribution $1,200, expected return 6%, dura
 | … | … | … | … | … |
 | 10 | $33,725 | $1,841 | $11,725 | $22,000 |
 
+> The results are approximate and are not financial advice.
+
 ---
 
 ## Български
@@ -225,3 +227,5 @@ src/
 | 3 | $15,730 | $822 | $2,130 | $13,600 |
 | … | … | … | … | … |
 | 10 | $33,725 | $1,841 | $11,725 | $22,000 |
+
+> Резултатите са приблизителни и не са финансов съвет.
