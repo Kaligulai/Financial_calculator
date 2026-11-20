@@ -114,17 +114,6 @@ Initial investment $10,000, annual contribution $1,200, expected return 6%, dura
 | … | … | … | … | … |
 | 10 | $33,725 | $1,841 | $11,725 | $22,000 |
 
-### Ideas for improvement
-
-- Show a message to the user when the duration is invalid.
-- Currency selection (BGN, EUR, USD).
-- A chart of the investment growth.
-- Choose whether the annual contribution is made at the start or the end of the year.
-
-### Note
-
-A learning project built while taking a React course. The results are approximate and are not financial advice.
-
 ---
 
 ## Български
@@ -236,14 +225,3 @@ src/
 | 3 | $15,730 | $822 | $2,130 | $13,600 |
 | … | … | … | … | … |
 | 10 | $33,725 | $1,841 | $11,725 | $22,000 |
-
-### Идеи за развитие
-
-- Съобщение към потребителя при невалиден срок.
-- Избор на валута (BGN, EUR, USD).
-- Графика на растежа на инвестицията.
-- Годишната вноска да е в началото или в края на годината.
-
-### Бележка
-
-Учебен проект, създаден по време на курс по React. Резултатите са приблизителни и не са финансов съвет.
