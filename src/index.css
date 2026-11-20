@@ -137,6 +137,30 @@ body {
   }
 }
 
+/* Телефони: таблицата се събира изцяло в екрана, заглавията са на два реда */
+@media (max-width: 30rem) {
+  #result {
+    display: table;
+    width: calc(100% - 2rem);
+    overflow-x: visible;
+    border-spacing: 0.35rem 0.5rem;
+  }
+
+  #result th {
+    white-space: normal;
+    vertical-align: bottom;
+    line-height: 1.2;
+  }
+
+  #result thead {
+    font-size: 0.6rem;
+  }
+
+  #result tbody {
+    font-size: 0.75rem;
+  }
+}
+
 /* Малки телефони: полетата едно под друго */
 @media (max-width: 24rem) {
   .input-group {
