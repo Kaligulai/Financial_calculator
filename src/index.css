@@ -84,6 +84,12 @@ body {
   color: #c2e9e0;
 }
 
+/* Колоната с годините е центрирана */
+#result th:first-child,
+#result td:first-child {
+  text-align: center;
+}
+
 .center {
   text-align: center;
 }
